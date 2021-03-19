@@ -3,7 +3,7 @@ Description:
 - A simple JavaScript game. I created this game as part of my 'Complete JavaScript' course on Udemy. 
 
 Notes: 
-- I did not create the images, HTML or CSS, these were provided. The JS file is my work.
+- I did not create the images, HTML or CSS, these were provided. The JS is my work.
 
 Game Rules: 
 - The game has 2 players, playing in rounds
